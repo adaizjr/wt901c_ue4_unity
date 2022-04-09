@@ -10,7 +10,8 @@ y = -unity_x
 
 z = -unity_y
 
-四元数可以使用，但是XYZ轴需要变换。
+
+四元数可以使用，但是需要变换。
 
 q0 = unity_w = ue4_w
 
